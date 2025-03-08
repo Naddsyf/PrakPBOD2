@@ -35,6 +35,6 @@ public class AngkaSial {
         yang dilempar.
     
     2.  Apakah baris 21 pada AngkaSial.java di atas dieksekusi?  
-        Jawab : iya, baris 21 tetap dieksekusi jik eksepsi terjadi. Ketika cobaAngka(13) melempar eksepsi, eksekusi
+        Jawab : Iya, baris 21 tetap dieksekusi jik eksepsi terjadi. Ketika cobaAngka(13) melempar eksepsi, eksekusi
         akan langsung melompat ke blok catch, sehingga baris 21 akan dijalankan untuk menampilkan pesan dari eksepsi.
  */
