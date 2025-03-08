@@ -26,7 +26,7 @@ public class AngkaSial {
     
 }
 
-/* Pertanyaan dan jawaban : 
+/* Pertanyaan dan jawaban :
     1.  Ketika eksepsi terjadi, apakah baris 12 pada AngkaSial.java di atas dieksekusi? 
         Jawab : Jika eksepsi terjadi (yaitu angka == 13) baris 12 tidak akan dieksekusi. Program akan 
         langsung melempar eksepsi dengan throw new AngkaSialException(). Karena eksepsi dilempar sebelum 
