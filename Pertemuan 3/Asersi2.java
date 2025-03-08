@@ -32,5 +32,5 @@ public class Asersi2 {
    sehingga program tetap bisa membuat objek lingkaran dengan jariJari = 0 tanpa eror
 2. Program ini tidak memiliki validasi selain asersi, sehingga tidak aman
    Karena Asersi bisa dinonaktifkan, program akan lebih aman kalau ada validasi lain melalui pengecekan if-else
-   baik pada main ataupun pada kontruktor lingkaran.
+   baik pada main ataupun pada konstruktor lingkaran.
 */
