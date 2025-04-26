@@ -1,6 +1,7 @@
 /*
  * File : MainAnabul.java
  * Name : Nadia Syifa Khairunnisa
+ * NIM  : 24060123120023
  * Date : 26 April 2025
  * Desc : Implementation of MainAnabul
  */
